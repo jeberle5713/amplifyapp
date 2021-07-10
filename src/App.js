@@ -16,4 +16,4 @@ function App() {
 }
 
 //Start The App Up
-export default withAuthenticator(App);		//WithAuthentication contains all logic to allow users to sign in, register, reset, etc.
+export default withAuthenticator(App);		//WithAuthentication contains all logic to allow users to sign in, register, reset, etc. if it works
